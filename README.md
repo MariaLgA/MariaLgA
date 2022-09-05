@@ -1,4 +1,4 @@
-### Oi,Seja bem vindo 😄!  Me chamo Maria Eduarda, sou estudante de Ciência da Computação e entusiasta em diversas áreas da tecnologia.
+### Oi, seja bem vindo 😄!  Me chamo Maria Eduarda, sou estudante de Ciência da Computação e entusiasta em diversas áreas da tecnologia.
 
 ## Áreas de Interesse:
 
