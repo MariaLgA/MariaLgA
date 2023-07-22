@@ -9,7 +9,7 @@
 - Processamento de Imagens
 - Engenharia Aeronautica
 
-##Conhecimentos:
+## Conhecimentos:
 
 - Linguagens de Programação e afins: NodeJs, C, Python, Javascript, Rust, HTML e CSS.
 
