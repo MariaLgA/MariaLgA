@@ -1,4 +1,4 @@
-### Oi, seja bem vindo 😄!  Me chamo Maria Eduarda, sou estudante de Ciência da Computação e entusiasta em diversas áreas da tecnologia.
+### Oi, seja bem vindo 😄!  Me chamo Maria Eduarda, sou graduanda de Ciência da Computação e entusiasta em diversas áreas da tecnologia.
 
 ## Áreas de Interesse:
 
@@ -9,7 +9,12 @@
 - Processamento de Imagens
 - Engenharia Aeronautica
 
+##Conhecimentos:
 
+- Linguagens de Programação e afins: NodeJs, C, Python, Javascript, Rust, HTML e CSS.
+
+- Demais tecnologias: Linux, OpenCV, API, Cloud Computing, AWS(EC2, Lambda, RDS), Bancos de Dados SQL/NoSQL, Microcontroladores, Grafana, Selenium e 
+Redes.
 
 
 
